@@ -79,4 +79,9 @@
     .section{
         flex-direction: column;
     }
+
+@media all and (max-width: 600px) {
+        .articulos {
+            flex-direction: column;
+        }
 }
